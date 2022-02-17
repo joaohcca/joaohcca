@@ -1,4 +1,3 @@
 
-I’m interested in linux, networks, webdevelopment.
+I’m interested in linux, networks & webdevelopment (TypeScript with Node, React and React-Native Stack).
 
-I’m currently learning node, react & react native
