@@ -1,6 +1,6 @@
 # Olá, meu nome é João Henrique Albuquerque 👋
 
-Atualmente Desenvolvo projetos de software focados em IoT para acumuladores elétricos 🔋 e indústria 4.0 🏭  no Instituto de Tecnologia Edson Mororó Moura o [ITEMM](https://www.linkedin.com/company/itemmbr). 
+Atualmente Desenvolvo projetos de software focados em IoT para acumuladores elétricos 🔋 e indústria 4.0 🏭  no Instituto de Tecnologia Edson Mororó Moura, o [ITEMM](https://www.linkedin.com/company/itemmbr). 
 
 ## Linguagens de Programação
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
